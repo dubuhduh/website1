@@ -12,6 +12,6 @@
 }
 
 .animate-flicker {
-	animation: flicker 3s infinite;
+	animation: flicker 5s infinite;
 	animation-timing-function: ease-in-out;
 }
