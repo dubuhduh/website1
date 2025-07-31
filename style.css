@@ -4,3 +4,11 @@
     font-weight: normal;
     font-style: normal;
 }
+
+.fade-in1 {
+    opacity: 1;
+	animation-name: fadeIn;
+	animation-iteration-count: 1;
+	animation-timing-function: ease-in;
+	animation-duration: 2s;
+}
